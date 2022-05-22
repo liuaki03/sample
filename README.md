@@ -1,1 +1,1 @@
-# sample
+This repository is a sample.
